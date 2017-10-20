@@ -48,7 +48,7 @@ This datset(CSV format) has been created from raw data collected in JSON format.
 
 ## Visaulization 
 
-![title](pageviewsOnEnglisMobile and desktop traffic data for English WIkipedia from 2008-2016.png)
+![title](https://github.com/abhishekanand/data-512-a1/blob/master/Mobile%20and%20desktop%20traffic%20data%20for%20English%20WIkipedia%20from%202008-2016.png)
 
 ## Consideration  :
 * Data from the Pageview API excludes spiders/crawlers, while data from the Pagecounts API does not.
