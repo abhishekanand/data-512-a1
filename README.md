@@ -30,10 +30,11 @@ Using Above API Five set of data collected in JSON format using Namind convetion
 
 ##  Tranformed Data Description (en-wikipedia_traffic_200801-201709.csv)
 
-Final Data File : en-wikipedia_traffic_200801-201709.csv 
+* Final Data File : en-wikipedia_traffic_200801-201709.csv 
+
 This datset(CSV format) has been created from raw data collected in JSON format.
 
-
+Here is a short  description of differnet columns in the data set  :- 
 | Column| Value |Comment|
 | ------------- |:-------------:| :-----|
 |year|	YYYY| Year from 2008 - 2017
