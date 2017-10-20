@@ -45,7 +45,7 @@ Here is a short  description of differnet columns in the data set  :-
 |pagecount_mobile_views	|num_views| All Views from Mobile
 |pageview_all_views	|num_views| All Views (Destop + Mobile)
 |pageview_desktop_views	|num_views| All Views from Desktop
-|pageview_mobile_views|	num_views| All Views from Mobile
+|pageview_mobile_views|	num_views| All Views from Mobile(web+App)
 
 ## Visaulization 
 
